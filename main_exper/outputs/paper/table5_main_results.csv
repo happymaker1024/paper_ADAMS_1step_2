@@ -1,0 +1,3 @@
+﻿모델,Accuracy@1,Accuracy@3,Precision,Recall,F1-score
+Ko-SBERT,0.1702,0.4752,0.2725,0.1370,0.1718
+GPT-4o-mini,0.4752,0.6454,0.3076,0.3837,0.3364

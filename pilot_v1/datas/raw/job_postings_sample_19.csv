@@ -1,0 +1,498 @@
+﻿번호,검색키워드,회사명,공고제목,직무내용,주요업무,자격요건,우대사항,요구스킬,접수시작일,url
+1, LLM 개발 | 멀티모달 aI,엘지유플러스,[CTO] AI Scientist_음성인식/합성 경력채용,"- 음성 AI 핵심 기술(STT, TTS, 화자인식, 음성향상) 선행 연구 및 기술 검증
+- 실시간 대화 환경을 고려한 음성 AI 모델 구조 및 추론 방식 연구
+- 저지연·경량화·응답 안정성을 중심으로 한 음성 AI 기술 방향성 연구
+- End-to-End Speech LLM 및 음성·멀티모달 파운데이션 모델 구조 연구
+- 음성 신호 기반 이벤트 검출 기술(Sound Event Detection) 연구
+- 대규모 음성·멀티모달 데이터 활용 전략 수립 및 연구 결과 공유 기술 문서, 리포트, 내부 세미나를 통한 연구 결과 공유","- 음성 AI 핵심 기술(STT, TTS, 화자인식, 음성향상) 선행 연구 및 기술 검증
+- 실시간 대화 환경을 고려한 음성 AI 모델 구조 및 추론 방식 연구
+- 저지연·경량화·응답 안정성을 중심으로 한 음성 AI 기술 방향성 연구
+- End-to-End Speech LLM 및 음성·멀티모달 파운데이션 모델 구조 연구
+- 음성 신호 기반 이벤트 검출 기술(Sound Event Detection) 연구
+- 대규모 음성·멀티모달 데이터 활용 전략 수립 및 연구 결과 공유 기술 문서, 리포트, 내부 세미나를 통한 연구 결과 공유","[전공]
+- 인공지능 관련 전공
+
+[필수 사항]
+- 석사 이상
+- 관련 직무 경력 2년 이상
+석사~박사
+
+경력
+(24)개월",,,2026.02.05,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=152033&infoTypeCd=OEW&infoTypeGroup=tb_workinfoopen
+2, LLM 개발 | 멀티모달 aI,넥스트증권,Backend Developer(추천시스템),"직무내용
+직무 Summary
+넥스트증권과 ​함께 ​성장할 ​Backend Engineer ​- 추천시스템 (경력) 담당자를 ​모집합니다. ​전에 없던 ​새로운 AI 기반의 ​금융 리테일·미디어 ​서비스의 ​추천 시스템 ​백엔드를 ​설계, ​개발하고 운영합니다.","주요업무
+- AI ​기반 신사업 서비스의 ​추천 ​시스템 ​설계·개발·운영 합니다.
+- 멀티모달 모델 ​추론 최적화(지연 ​시간, ​메모리, 비용 ​관리)를 진행하고 ​추천 ​시스템에 적용합니다.
+- 대규모 사용자 ​트래픽 대응을 ​위한 스케일링·로드밸런싱을 고려하여 아키텍처/인프라를 개선하고 확장합니다.","- 5년 이상의 백엔드 엔지니어링 경력
+- 추천 시스템 개발의 라이프사이클 전체에 익숙하신 분
+- 대규모 ML 서빙 아키텍처 설계 및 운영 경험 (Kubernetes, Docker, Ray Serve 등)이 있으신 분
+- 스스로 트레이드오프를 판단하여 의사결정 내리고 실행할 수 있는 분","- ML 기반 프로젝트를 바탕으로 실 서비스에서 비즈니스 임팩트를 만들어보신 분
+- LLM 추론 최적화 경험 (Flash Attention, Quantization, TensorRT 등)이 있으신 분
+- 금융 서비스 특화 SLA 관리 및 Latency/Throughput 최적화 경험이 있으신 분
+- Datadog, Prometheus, Grafana 기반 MLOps/Observability 경험이 있으신 분
+- 다음과 같은 추천 시스템의 각 컴포넌트에 대해 하나 이상의 깊은 이해도와 경험이 있으신 분
+1) 데이터 인제스쳔, 로그 파이프라인
+2) 피처 스토어 인프라 운영 관리
+3) 모델 서빙 인프라 운영 관리
+4) 실시간 추천 Retrieval 시스템
+5) 랭킹/후처리 엔진
+6) AB 테스트, 실험 플랫폼
+7) 모니터링, 운영 자동화",,,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=312330&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+3, LLM 개발 | 멀티모달 aI,아날로그에이아이,인공지능 알고리듬 (AI Algorithm) 엔지니어,"[직무 소개]
+• 포지션명: AI Algorithm Engineer
+• 고용 형태: 정규직
+• 경력: 무관 (신입, 경력 가능)
+• 소속: Algorithm 개발팀
+• ADP Program 신청 가능
+
+* ADP Program이란?
+AnalogAI Advanced Degree Partnership Program (ADP Program)은 재직 중인 직원이 회사 업무와 병행하며 석사/박사 학위를 취득할 수 있는 특별한 기회입니다.
+","주요업무
+• 아날로그 하드웨어 특화 학습 알고리즘 연구: 아날로그 하드웨어의 특성을 고려한 학습 알고리즘 및 최적화 알고리즘 적용 및 최적화
+• 최신 모델 아키텍처 적용: Transformer, LLM 등 최신 AI 모델을 아날로그 인메모리 컴퓨팅 구조에 맞게 매핑하고 성능 최적화
+• AI 모델 최적화 및 경량화: 하드웨어 제약 조건을 고려한 모델 연구 및 적용
+• H/W-S/W Co-design 참여: 하드웨어 설계 팀과 협업하여 아날로그 가속기 아키텍처에 최적화된 알고리즘 요구사항 도출 및 검증","자격요건
+• 이공계 전공: 컴퓨터공학, 전기/전자공학, 반도체 등 관련 분야 학사 이상
+• 기술 이해도: 딥러닝 프레임워크(PyTorch, TensorFlow 중 하나 이상) 활용 능력 및 최신 신경망 구조(Transformer 등)에 대한 깊은 이해
+• 프로그래밍 역량: Python 및 C/C++ 기반의 알고리즘 구현 및 데이터 구조 활용 능력
+• 수학적 기반: 최적화 알고리즘 및 통계 등 알고리즘 설계를 위한 탄탄한 수학적 기초","우대사항
+• 아날로그 하드웨어 가속기 기반의 학습/추론 알고리즘 연구 경험
+• 반도체 소자 및 물리적 특성에 대한 기초 지식
+• LLM 경량화 및 온디바이스 추론 최적화 프로젝트 경험
+• Cuda 프로그래밍 또는 고성능 컴퓨팅(HPC) 관련 경험",,2026.01.01,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=332187&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+4, LLM 개발 | 멀티모달 aI,페이브먼트,셀레트립 서비스 Back-End 백엔드 개발자,"우리는 팬덤이 현실 공간을 경험하는 방식을 바꿉니다.
+
+페이브먼트는 K-POP, K-DRAMA 팬들이 아티스트가 다녀간 장소를 직접 방문하고,
+공연을 즐기고, 아티스트의 음성 콘텐츠를 통해 공간을 체험할 수 있도록 만든
+한류 팬 경험 플랫폼 ‘셀레트립’ 을 운영하고 있습니다.
+
+관광, 공연, 팝업, 전시 등의 오프라인 경험을 위치 기반 아티스트 음성 콘텐츠와 연결해
+팬들이 콘텐츠를 ‘보는 것’을 넘어 현실에서 따라가고 체험하는 경험으로 확장합니다.
+
+셀레트립은 글로벌 팬들이 한국은 물론 각국의 다양한 공간을 방문하며
+팬 활동을 여행과 결합해 경험할 수 있도록 서비스를 지속적으로 운영해오고 있습니다.","• 셀레트립 모바일 앱 및 운영/관리용 백오피스 시스템 API 설계·구현·운영
+• 사용자 위치·행동 데이터를 기반으로 한 장소 추천·탐색·개인화 로직 설계 및 API 개발
+• AWS 환경(EC2, ECR, SQS 등)에서의 서비스 배포, 운영, 장애 대응 및 인프라 안정성 개선
+• LLM 기반 Voice Cloning / AI 음성 콘텐츠 결과물을 안정적으로 제공하기 위한 백엔드 • 파이프라인 설계 및 구현
+• 비즈니스 요구사항을 기반으로 한 도메인 모델링, 데이터 모델 설계 및 쿼리 최적화
+• 서비스 모니터링 도구(Prometheus, Grafana 등)를 활용한 시스템 상태 관찰 및 성능 이슈 분석·개선
+
+[확장 및 고도화 업무]
+• 모바일·웹·외부 플랫폼을 통합하는 OAuth2 / OIDC 기반 SSO 인증 흐름 설계 및 백엔드 구현
+• 트래픽 증가 및 글로벌 유저 대응을 고려한 확장 가능한 API 구조 설계 및 성능 개선
+• 메시지 큐(SQS) 및 이벤트 기반 아키텍처를 활용한 비동기 처리 로직 설계 및 운영
+• 신규 비지니스 요구사항을 기술적으로 구체화하고 구현 방향 제안","• 경력 3년 혹은 그에 준하는 Java Spring Boot 기반 백엔드 개발 경험
+• PostgreSQL과 같은 RDBMS를 운영하고 적절한 쿼리를 작성할 수 있으신 분
+• Redis를 활용한 캐시 저장소 구축과 분산 락 개발 경험이 있으신 분
+• Docker 기반 컨테이너 환경을 구축한 경험이 있으신 분
+• AWS 활용한 인프라 구축 경험이 있으신 분
+• Github Actions 기반 CI/CD 파이프라인 설계 경험","• K-POP 및 엔터테인먼트 산업에 대한 관심이 있으신 분
+• TTS(Text-to-Speech) 알고리즘 또는 음성 관련 개발 경험
+• E-Commerce 시스템 개발 경험이 있으신 분
+• 메시지 큐와 이벤트 기반 비동기 처리 로직을 구현해보신 분
+• 정량적인 데이터를 바탕으로 문제점을 분석하고 서비스 성능을 개선해보신 분
+• 테스트 코드를 통해 본인이 작성한 코드를 검증해보신 분","Backend: Java, Spring Boot
+Database: PostgreSQL, Redis
+Infra/DevOps: AWS(EC2, ECR, SQS), Docker, NGINX
+Observability: Prometheus, Grafana, Loki
+CI/CD: GitHub Actions
+Communication: OpenFeign, gRPC",,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=334330&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+5, LLM 개발 | 멀티모달 aI,이지케어텍,AI Engineer 1년 이상 (석/박사) 전문연구요원,"이지케어텍은 혁신적인 의료 IT 솔루션을 제공하는 선도적인 기업으로, 의료 현장에서의 효율성을 극대화하고자 합니다.
+1. 의료 IT 솔루션의 선두주자로서, 다양한 병원과 의료 기관에 맞춤형 솔루션을 제공합니다.
+2. 최신 기술을 활용하여 의료 데이터의 안전성과 효율성을 보장합니다.
+3. 글로벌 시장에서도 인정받는 품질과 신뢰성을 자랑합니다.
+이번에 모집하는 AI Engineer 경력직은 전문연구요원으로서 LLM을 활용한 연구 개발과 예측 모델 및 AI 서비스 개발을 담당하게 됩니다. 이지케어텍과 함께 혁신적인 의료 IT 솔루션을 만들어 나갈 인재를 기다립니다.","• LLM을 활용한 연구를 개발해요.
+• 예측 모델 및 AI 서비스를 개발해요.
+• 연구 과제 관리를 담당해요.","• 전문연구요원 채용으로 현역 '신입 지원' 가능 및 '전직' 가능
+• 연구과제 제안 및 관리 경험 보유자
+• 통계/머신러닝/딥러닝에 대한 전문지식 보유 및 관련 학과 졸업 (석사 이상)
+• 머신러닝 프레임워크 사용 경험 (Tensorflow, Pytorch 등)
+• 딥러닝 프레임워크 사용 경험 (HuggingFace, Pytorch 등)
+• LLM을 이용한 프로젝트 또는 서비스 개발 경험
+• (외국 국적자의 경우) 중급 이상의 한국어 구사 능력","• 대규모 연구과제 책임자 역할 경험자
+• 데이터처리 및 전처리 경험자 (대규모 텍스트데이터, 영상데이터, 음성데이터 등)
+• 모델 개발 경험자
+• 특정 문제 해결을 위한 Language Model Fine Tuning 경험자
+• 자연어 처리 경험자
+• Pretrained Language Model 기반의 자연어 처리 경험자
+• 머신러닝 관련 논문 작성 경험자
+• AI서비스 개발 참여 경험자
+• MLOps 및 모델 배포 경험자 (API 개발, 모델 모니터링)",,2026.01.20,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=336056&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+6, LLM 개발 | 멀티모달 aI,코웨이,IT개발(Back-end) 6~10년,코웨이/ IT개발(Back-end),"• B2B/B2C 플랫폼 서비스 구축/운영
+• DX(Digital Transformation) 업무 시스템 구축/운영
+• AX(AI Transformation) 업무 시스템 구축/운영
+• 국내/외 신사업 프로젝트 지원
+• AWS/GCP 등 퍼블릭 클라우드 활용하여 서비스 구축/운영","• 6년~10년 Back-end Java 개발 경험자
+• Spring-boot 프레임워크 기반 개발 경험자
+• REST API 기능 명세서 작성 경험자
+• 웹/앱 등 다양한 클라이언트 대상 Back-end 시스템 운영 경험자
+• 외부 솔루션 연동 경험자","• Kotlin 개발 경험자
+• Git 형상관리 활용 경험자
+• 개발 구성원 간 코드리뷰 및 리팩토링 경험자
+• AWS/GCP 등 퍼블릭 클라우드 서비스 활용 경험자
+• Docker/K8S 활용 경험자
+• RDB(MySQL, PostgreSQL 등) 활용 경험자
+• 3인 이상 개발인력 참여 과업의 개발 리더 역할 경험자
+• 상용 LLM(Gemini, OpenAI, Claude 등) API 연동 및 서비스 적용 경험자",,2026.02.06,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=340700&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+7, LLM 개발 | 멀티모달 aI,㈜지뉴소프트,[지뉴소프트/연구소] AI 연구원 채용 (병역특례/전문연구요원 가능),,"담당업무
+· 멀티모달 비전 파운데이션 모델 개발
+- 초분광(HSI), 다분광(MSI), RGB 등 다양한 센서 기반의 영상 데이터를 통합하여, 다양한 영상처리 태스크를 효율적으로 수행
+할 수 있는 범용 비전 파운데이션 모델을 개발
+- 다양한 산업 분야에서의 실질적 가치 창출을 목표로, 파운데이션 모델 기반의 응용 분야별 모델 설계, 최적화 및 효율적인 파인
+튜닝 기법 적용
+- 사업화 가능 수준의 대규모 AI 모델 경량화 기술 연구 및 고도화
+· 멀티모달 이미지-언어 통합 모델(VLM) 개발
+- 초분광(HSI)·다분광(MSI)-RGB 등의 다양한 영상 분야에서 전문가 수준의 전문지식과 문제해결 능력을 갖춘 언어모델 구축
+- 비전 파운데이션 모델과 멀티모달 언어모델을 결합하여 입력 영상을 대상으로 자연어 기반 질의응답 및 복합 추론이 가능한 통
+합 모델 개발
+· 초분광 영상 정밀분석 도구 및 플랫폼 서비스 구축
+- 분광 특성을 이해하고 활용하는 스펙트럼 정밀분석 및 저작도구 솔루션 개발
+-파운데이션 모델 및 VLM을 융합한 멀티모달 분석 상용 서비스 구축
+-LLM, RAG, MCP 등 최신 AI 기술을 융합하여 손쉽게 활용 가능한 지능형 시스템 구축","·학력: 석사이상
+·경력: 신입/경력
+·최신 AI 기술에 대한 탄탄한 이해가 있는 분","우대사항
+·석·박사학위 소유자
+·초분광 다분광 분야의 전문지식 보유자
+·국제 학술 대회 논문 1저자 또는 AI 분야 논문 게재 경험자
+·공개 벤치마크에서 SOTA 성능을 상위 달성 경험 보유자
+
+·국제 AI 경진대회 상위 입상 경력 보유자","스킬
+· Python, Pytorch, Git, Docker
+· 멀티모달 비전/파운데이션 모델(ViT/Transformer 등)
+· RGB·초분광(HSI)·다분광(MSI) 데이터 처리/전처리 및 스펙트럴-공간 모델링
+·VLM (이미지-언어 모델), 멀티모달 Q&A/추론
+· 대규모 학습/분산학습 및 최적화(AMP, DDP/FSDP/DeepSpeed)
+· 모델 경량화/추론 최적화(Quantization/Distillation, ONNX/TensorRT 등)",2026.01.05,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=50167723&infoTypeCd=CJK&infoTypeGroup=tb_workinfogubun
+8, LLM 개발 | 멀티모달 aI,(주)파운트,[핀테크/AI/정규] AI / LLM 엔지니어 (미들급),,"·LangGraph 기반 멀티 에이전트 시스템 설계 및 구현
+· GPT-4/5, Claude, Gemini 등 LLM모델 통합 및 최적화
+DB, Hybrid Search, Reranking)
+· RAG 시스템 개발(Vector
+· 금융 도메인 특화 AI Agent 개발 (가격분석, 뉴스 분석 재무제표 분석)
+-
+· Prompt Engineering 및 Chain-of-Thought 최적화
+· LLM 성능 모니터링 및 비용 최적화
+· SSE 기반 실시간 스트리밍 응답 구현","· 경력 5년 이상 ~ 15년 이하
+· 학력무관
+· Python 3+ 실무 경험3년 이상
+·LangChain/LangGraph 프레임워크 사용 경험
+· OpenAl API, Anthropic API, Google Vertex AI 중 2개 이상 사용 경험
+· Async/Await 비동기 프로그래밍 능숙
+· Prompt Engineering 및 LLM Fine-tuning 경험
+· RESTful API 설계 및 구현 경험
+· Git을 통한 협업 경험","·LangSmith, LangFuse 등LLM Observability도구 사용 경험
+·Vector Database (Pinecone, Weaviate, pgvector)사용 경험
+· RAG 시스템구축 경험
+· AI Agent Framework (AutoGPT, BabyAGI, CrewAl 등) 개발 경험
+· FastAPI, SQLAlchemy 경험
+·금융 도메인 지식 (주식, ETF 재무제표 등)
+,
+·논문 구현 또는 오픈소스 기여 경험",,2026.01.06,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=52744294&infoTypeCd=CSI&infoTypeGroup=tb_workinfogubun
+9, LLM 개발 | 멀티모달 aI,(주)씨피에스테크,LLM / Generative AI 엔지니어 (도메인 특화 AI 개발)," 회사 소개
+
+(주)씨피에스테크는 전자파 적합성(EMC) 및 전파·전자파 엔지니어링 분야에서
+
+AI 기반 설계·시험·검증 자동화 솔루션을 개발하는 버티컬 AI 스타트업입니다.
+
+ 
+
+현대자동차, LG전자, LG이노텍, LG마그나 등 국내외 유수 기업과 협력하며 빠르게 성장하고 있으며,
+
+전파·전자파 표준 문서, 시험 데이터, 측정 결과 등 복잡한 엔지니어링 정보를 AI로 이해·활용하고,
+
+EMC를 고려한 제품 설계·시험 자동화 플랫폼으로 확장하는 기술을 개발하고 있습니다.
+
+주요 고객사: 현대자동차, LG전자, LG이노텍, LG마그나, 국립전파연구원 등
+
+- 청년창업사관학교 13기 졸업 (2023년)
+
+- 산업통상자원부 소재부품기술개발 사업 선정 (2024년, 주관기관: LG전자 / 총 4.5년 과제)
+- 신용보증기금 혁신스타트업 성장지원 프로그램 ‘퍼스트펭귄 보증’ 선정 (2024년)
+- 국립전파연구원과 전파 분야 특화 LLM 공동개발 계약 (2025년)
+- 시리즈A 투자 유치 예정 (2026년)
+
+2. 포지션 소개
+
+당사는 전파·전자파 표준 문서, 시험 데이터, 측정 결과 등 
+복잡하고 비정형적인 엔지니어링 정보를 
+LLM을 활용해 질의응답·비교·요약이 가능한 지식 형태로 재구성하는 
+도메인 특화 AI 제품 EMChat을 개발하고 있습니다.
+본 포지션은 특정 EMC 경험보다는,
+복잡한 기술 도메인을 이해하고 LLM 기반 AI로 문제를 재정의할 수 있는 엔지니어를 찾습니다.","- EMChat AI 기술 로드맵 수립 및 제품 아키텍처 설계
+
+- Foundation Model 기반 Fine-tuning 및 도메인 특화 적용
+
+- 전파·전자파(EMC 포함) 표준 문서 기반 RAG 파이프라인 설계·고도화
+
+- Chunking 전략 수립 및 Vector DB 구축
+
+- Cross-Encoder / Reranker 모델 설계 및 성능 개선
+
+- 기술 문서 Q&A / 비교 / 요약 / 번역 품질 개선
+
+- LLM 평가 지표 정의 및 실제 사용자 품질 개선 사이클 운영
+
+ 
+
+• 책임연구원/수석연구원/연구소장 직급으로 함께할 예정이에요.G20","• 경력 2년 이상
+
+• 대학교졸업(4년)이상
+
+• 머신러닝 / 딥러닝 실무 경력 2년 이상
+
+• Transformer / LLM 기반 모델 개발 경험
+
+• Python 및 PyTorch 숙련자
+
+• 비정형 기술 문서 또는 복잡한 도메인 데이터를 다뤄본 경험
+
+• AI 모델을 실제 서비스 또는 제품에 적용해 본 경험
+
+• 엔지니어링 문제를 구조화하여 해결할 수 있는 역량","• AI 관련 석·박사 학위 소지자
+
+• RAG, Retrieval, Re-ranking 구조 실무 경험
+
+• 멀티모달(텍스트+이미지/표 등) 확장 경험
+
+• 시니어 또는 리드급으로 프로젝트 리딩 경험
+
+• 원활한 커뮤니케이션 역량을 보유한 분",,2026.01.18,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=52854365&infoTypeCd=CSI&infoTypeGroup=tb_workinfogubun
+10, LLM 개발 | 멀티모달 aI,(주)씨피에스테크,Multimodal AI 엔지니어 (VLM/LMM 개발),,"- 기술 문서 내 이미지, 그래프, 도면, 표 이해를 위한 멀티모달 AI 모델 개발
+
+- OCR + Vision + LLM을 결합한 문서 이해 파이프라인 설계
+
+- 이미지·그래프 기반 정보 추출 및 텍스트 의미 연결
+
+- 문서 질의응답(QA), 요약, 비교를 위한 멀티모달 입력 처리 구조 설계
+
+- 멀티모달 모델 성능 평가 지표 정의 및 품질 개선 사이클 운영
+
+• 책임연구원/수석연구원/연구소장 직급으로 함께할 예정이에요.","• 경력 2년 이상
+
+• 대학교졸업(4년)이상
+
+• 머신러닝 / 딥러닝 실무 경력 3년 이상
+
+• Vision 또는 Multimodal 모델 개발 경험
+
+• Python 및 PyTorch 숙련
+
+• OCR, 문서 분석 또는 비정형 데이터 처리 경험
+
+• AI 모델을 실제 서비스 또는 제품에 적용해 본 경험
+
+• 복잡한 문제를 구조화하여 해결할 수 있는 엔지니어링 역량","•  AI 관련 석·박사 학위 소지자
+
+• Vision + LLM 결합 구조에 대한 이해 또는 실무 경험
+
+• 멀티모달 QA, 문서 기반 RAG 시스템 경험
+
+• 이미지·그래프 기반 정보 추출 및 정합성 처리 경험
+
+• 시니어 또는 리드급으로 프로젝트 리딩 경험
+
+• 원활한 커뮤니케이션 역량을 보유한 분",,2026.01.18,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=52854382&infoTypeCd=CSI&infoTypeGroup=tb_workinfogubun
+11, LLM 개발 | 멀티모달 aI,(주)디윅스,(주)디윅스 인공지능 개발 연구원 (LLM 개발/응용),,"• 최신 LLM 및 생성형 AI 모델 연구, 개발 및 개선
+
+• 내부 및 고객사 대상의 AI/LLM 솔루션 설계 및 구현
+
+• 데이터 전처리, 모델 학습, 튜닝, 평가 및 배포 자동화
+
+• 협업을 통한 AI 서비스/제품 고도화","• 경력 5년 이상
+
+• 컴퓨터공학, 전산학, 수학, 통계 등 관련 전공 학사 이상 (석사/박사 우대)
+
+• Python 등 프로그래밍 언어 활용 능력 경험
+
+• PyTorch, TensorFlow 등 딥러닝 프레임워크 경험
+
+• LLM, Transformer 기반 모델 활용/튜닝/개발 경험","• GPT, Llama, T5, BERT 등 대규모 언어 모델 적용 및 서비스 경험
+
+• AI 학회 논문 게재 또는 데이터/모델 경진대회 입상 경험
+
+• 클라우드(AWS, GCP, Azure) 및 MLOps 파이프라인 설계 경험",,2026.02.05,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=53017379&infoTypeCd=CSI&infoTypeGroup=tb_workinfogubun
+12, LLM 개발 | 멀티모달 aI,주식회사 단비아이엔씨(danbee Inc.),[채용-상시] 인공지능 전문기업 단비아이엔씨에서 개발자를 모집합니다. (경력5년이상~10년이하),"* 단비에 합류하여 일하다 보면 어느새 시스템 및 인공지능 전문가가 되어 있을 것입니다.
+  기업용 시스템에 인공지능 서비스인 자연어 처리NLP, LLM 모델 학습, 생성형AI, 바이브 코딩 등을 경험하며 함께 성장해갑니다.
+  같이 커리어를 쌓고 싶으신 분은 누구라도 환영합니다. :)
+** 단비에는 20년+ 경력의 CTO와 팀원들 있고 함께합니다.
+  개발을 1도 모르는 사람이 던져주는 업무로 인한 고통, 절대 없다는 사실!","<백엔드는 어떤일을 담당하나요?>
+- 단비에서 구축한 기업용 서비스의 개발을 담당합니다.
+- 인공지능을 활용한 기업용 시스템 구축 및 운영의 백엔드 개발을 담당합니다.
+- Java, Python, Node.js 등의 언어로 백엔드 서비스를 개발합니다.
+- React.js(Next.js), Vue.js(Nuxt.js) 등으로 만들어진 웹어플리케이션을 백엔드 서비스와 연계합니다.
+ 
+<AI>개발은 어떤일을 담당하나요?>
+- 인공지능을 활용한 기업용 시스템 구축 및 운영의 AI 개발을 담당합니다.
+- LLM 데이터 수집 및 정제 작업을 담당합니다.
+- LLM Fine Tuning 및 모델 배포를 담당합니다.
+- Python 등의 언어로 백엔드 서비스를 개발합니다.
+- React.js(Next.js), Vue.js(Nuxt.js) 등으로 만들어진 웹어플리케이션을 백엔드 서비스와 연계합니다.
+ 
+<어떻게 일하나요?>
+- 애자일 방식으로 1달 단위로 스프린트를 진행하며, 매일 스크럼미팅을 진행합니다.
+- 매주 월요일 한 주의 계획을 공유하고, 업무분배를 다시 조정합니다.
+- 한달에 한번 스프린트의 회고를 진행하고 개선할 부분을 찾아 다음 스프린트에 도전을 합니다.
+- 일감관리는 플래너(Planer)를 사용하며 협업으로는 팀즈(Teams)을 사용합니다.
+- 깃헙(GitHub)과 깃랩(GitLab)을 코드 저장소로 사용합니다.
+- 젠킨스(Jenkins) 또는 Github Action을 사용하여 CI를 구성하고 AWS 등 클라우드에 빌드 및 배포를 진행합니다.
+- 개발환경은 도커(Docker)로 구성되어 있어 편하게 개발만 집중할 수 있습니다.
+- 개발도구는 젯브레인(JetBrain)의 통합IDE를 모든 개발자에게 제공합니다.","<백엔드 개발자는 어떤 조건이 필요한가요?>
+- 새로운 기술에 대한 거부감이 없으며 개발을 좋아하는 감성을 지닌 사람
+- 백엔드 개발 5년 이상 경험 필수
+- Java 기본과 Spring Framework를 사용하여 개발한 경험 필수
+- AWS, Azure, GCP 등 클라우드 프로젝트 경험 필수
+ 
+<AI>개발자는 어떤 조건이 필요한가요?>
+- 새로운 기술에 대한 거부감이 없으며 개발을 좋아하는 감성을 지닌 사람
+- 백엔드 개발 5년 이상 경험 필수
+- LLM 데이터 관리 및 모델 관리 경험 필수
+- Python Framework 인 Pytorch , Django, Flask, Fastapi 를 사용한 경험 우대",,,2026.02.28,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K120612602060002&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet
+13,langchain,한화생명보험,AI Backend Engineer(대리~과장급),"한화생명의 ​AI플랫폼팀은 생성형 ​AI 기술 기반의 다양한 ​서비스를 ​개발하고 있습니다.
+
+﻿우리의 ​목표는 한화생명이 AI를 ​통해 본업의 ​가치를 ​높이고, 기존에 ​없던 ​새로운 ​긍정적 경험을 제공하는 ​것이며, ​
+
+궁극적으로는 고객과 같이 ​성장하며, ​고객에게 ​더 많은 가치를 ​드리고자 하는 ​것입니다.
+
+서비스 ​기획, 데이터 ​구축, 모델 ​학습 ​및 배포 등 ​AI 서비스 ​개발을 위한 End-To-End 프로세스를 경험하고 기여하실 수 있습니다.","• Agent 기반 제품 설계 및 개발
+• Agentic 아키텍처 등을 제품에 전략적으로 활용
+• 기존 AI 서비스, LLMOps 운영 고도화","학력 : 대졸 학사 이상
+경력 : 5년 이상의 유사 경력 보유자
+전문지식
+• 컴퓨터 공학, 소프트웨어 공학, 정보기술 또는 관련 분야에서 학사 학위 이상
+• 백엔드 기술에 대한 깊은 이해와 경험 (Python, Java, Go, Node.js 등)
+• 다양한 데이터베이스 설계 및 관리 경험 (MySQL, Redis, elasticsearch 등)
+• AI 기반 서비스의 설계부터 개발, 운영까지 전 과정을 주도적으로 수행한 경험
+• AI 모델 서빙 프레임워크(vllm, sglang, TensorRT-LLM 등) 활용 경험
+• AI Agent 프레임워크(LangChain, LangGraph 등) 활용 경험
+• 클라우드 서비스(AWS, Azure 등) 환경에서의 서비스 개발, 배포 및 운영 경험
+• 컨테이너화 기술(Docker, Kubernetes 등) 및 마이크로서비스 아키텍처(MSA) 운영 경험
+• 팀에서의 협업과 의사소통 능력이 탁월한 자","• 시스템 아키텍처 설계 및 구축 경험
+• 금융업 설계/개발 및 운영 경험
+• AI 모델 경량화 경험",,2026.02.11,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=211562&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+14,langchain,제논,AI Engineer_생성형 AI Agent개발,"생성 AI(Gen AI)로 기업의 혁신을 켜는(On) 제논
+
+제논은 생성형 AI 기반의 B2B 솔루션을 제공하는 인공지능(AI) 전문 기업입니다.
+비즈니스와 AI, IT에 대한 전문 지식과 다양한 산업 적용 경험을 바탕으로 AI 전략 수립부터 모델 개발, 시스템 구축까지 전 과정을 아우르는 통합 서비스를 제공합니다.
+
+제논의 핵심 경쟁력은 지난 8년 동안 200여개 이상의 다양한 AI 프로젝트를 수행하며 확보한 여러 AI 분야에 기술 역량과 전 산업 영역에 걸쳐진 고객사들의 문제를 해결했던 경험과 노하우에서 기반합니다. 기업 고객이 현장에서 더욱 고도화된 업무 혁신을 실현할 수 있도록 LLM과 생성형 AI에 기반을 둔 인공지능 솔루션올 통해 End-to-End 인공지능 프로페셔널 서비스를 선보이고 있습니다.
+
+제논은 생성형 AI 기술의 연구·개발 역량을 바탕으로, 다양한 기업 고객의 니즈에 최적화된 솔루션을 개발하는 데 집중하고 있습니다. 특히 AI 모델 개발부터 데이터 분석, 업무 자동화, 에이전트 설계에 이르기까지 AI 서비스 구현과 적용에 필요한 모든 단계에 걸친 통합형 서비스를 제공하며, 실제 사용자 환경에서 바로 적용 가능한 형태로 높은 완성도의 결과물을 창출합니다.","• LLM, 멀티모달, 임베딩 모델을 활용하여 고객사의 요구에 맞춘 AI 기반 솔루션 개발/배포
+• 다양한 인공지능 에이전트를 구축하여 고객사의 비즈니스 효율화를 지원
+• LangChain, LangGraph와 같은 오픈소스 프레임워크를 활용하여 맞춤형 검색과 개인화 기능 최적화
+• 고객사 문제 분석을 통한 맞춤형 RAG 기반 솔루션 설계, 데이터 검색과 생성형 응답을 결합한 고성능 AI 서비스 제공
+• 대규모 데이터의 효율적 관리, 고객사 니즈에 맞는 분석과 보고서 생성을 자동화할 수 있는 AI 모델 설계 및 최적화
+• 고객사와 협업하여 비즈니스에 직접적인 가치를 제공할 수 있는 AI 솔루션 기획/개발","• 컴퓨터공학 및 관련학과 석사 이상 혹은 학사+1년 이상의 경력
+• LLM과 RAG 관련 기술에 대한 기본 지식과 실무 경험 보유
+• LangChain, LangGraph와 같은 오픈소스 프레임워크를 활용한 AI 솔루션 개발 경험
+• LLM 기반 에이전트(데이터 분석, 보고서 생성, 개인화) 개발 경험이나 이에 높은 이해도 보유
+• 주요 AI 프레임워크 활용 가능자
+ㄴ Python, PyTorch, TensorFlow, Langchain, Langraph, Rasa, Flowise, Langfuse
+• 비즈니스 문제를 해결하기 위한 고객 맞춤형 솔루션 설계 및 개발 역량","• 컴퓨터 공학 관련 석사/박사 학위
+• 벡터 검색 및 RAG 솔루션에 대한 경험
+• 대규모 AI 모델 및 데이터를 다루고 최적화한 경험
+• Docker, Kubernetes 등 컨테이너 기술에 대한 경험
+• LLM, 임베딩, 멀티모달 모델 학습을 위한 데이터셋 생성, 학습 및 배포 경험
+• AI 모델을 비즈니스 환경에 통합하여 고객 경험 최적화 경험",,2026.01.13,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=215978&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+15,langchain,탑커리어인사이트,상장기업 AI솔루션 AI엔지니어,,"- ComfyUI 기반 프로젝트의 안정적인 운영 및 장애 대응
+- ComfyUI API 연동 및 자동화 파이프라인 구축
+- 생성형 이미지 AI 개발 ","- 포트폴리오 제출 필수 
+- 초대졸이상 
+- 경력 4년 이상 
+- ComfyUI 커스텀 노드 개발 및 워크플로우 최적화 경험이 있으신 분
+- ComfyUI API 연동 및 자동화 파이프라인 구축 경험이 있으신 분
+- Python FastAPI 실무 경험이 있으신 분
+
+","- LangChain, LangGraph, LangFlow 등 AI Agent 프레임워크 구축 경험이 있으신 분 
+- MCP(Model Context Protocol) 개발 경험이 있으신 분
+- 정보처리기사 또는 동등한 자격증 소지 하신 분
+- Git, JIRA 등 협업 도구 활용 및 프로젝트 문서화에 능숙하신 분",,,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=2602150000058&infoTypeCd=CIN&infoTypeGroup=tb_workinfogubun
+16,langchain,탑커리어인사이트,상장기업 AI솔루션 백엔드개발,,"- Java Spring Boot 기반 백엔드 API 개발 및 유지보수
+- MSA 전환을 위한 서비스 분리 및 리팩토링
+- Java Spring 서비스를 FastAPI로 단계적 전환
+- CI/CD 파이프라인 설계, 구축 및 운영","- 포트폴리오 제출 필수 
+- 초대졸이상 
+- 경력 6년 이상 
+- Java Spring Boot 백엔드 개발 실무 경험 6년 이상 경험 있으신분
+- JPA/Hibernate 실무 경험이 있으신 분
+- Python FastAPI 실무 경험이 있으신 분
+- RESTful API 설계 및 개발에 능숙하신 분
+- DevOps 기본 역량 있으신분","- LangChain, LangGraph, LangFlow 등 AI Agent 프레임워크 구축 경험이 있으신 분 
+- MCP(Model Context Protocol) 개발 경험이 있으신 분
+- 정보처리기사 또는 동등한 자격증 소지 하신 분
+- Git, JIRA 등 협업 도구 활용 및 프로젝트 문서화에 능숙하신 분",,2026.02.15,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=2602150000059&infoTypeCd=CIN&infoTypeGroup=tb_workinfogubun
+17,langchain,퍼스트해빗,AI scientist,"·수학 교육용 AI에 필요한 데이터 온톨로지화
+·온톨로지를 활용한 Agentic AI 파이프라인 구현
+·최신 AI 기술 트렌드(Multimodal, 교육용 AI)를 연구분석 및 솔루션 개발","Ontology 체계 설계
+• 개념 분류 및 구조화 : 수학 교육에 필요한 주요 개념 분류 및 구조화
+• 관계성 파악 및 Ontology 체계화 : 개념 간의 관계성을 분석하고 다양한 타입의 Edge로 연결하여, GraphDB를 활용한 데이터베이스의 Ontology화
+
+AI 시스템 개발
+•AI 파이프라인 설계: RAG(Retrieval-Augmented Generation), LangChain, LangGraph 등을 활용한 AI Tutor
+
+파이프라인 설계
+•DB 접목 및 시스템 개발: Ontology화된 DB와 AI 파이프라인을 통합하여, 실제 교육 상황에서 학생의 질문에 적절하게 대응할 수 있는 AI 대화 시스템 개발
+•시스템 최적화: 개발된 AI 대화 시스템의 성능 최적화 및 유지 보수
+최신 AI 기술 연구 및 분석
+•최신 AI 기술 트렌드를 지속적으로 조사하고, 각 기술의 원리와 가능성 평가
+•사용자 경험, 인터페이스, 성능 관점에서 기술의 적용 가능성 검토
+
+AI 기술 전략 개발 및 구현
+•제품 목표 및 요구 사항을 이해하고, 이를 바탕으로 AI 기술 적용 방안 모색
+•연구 결과를 바탕으로 AI 기술을 활용한 새로운 기능 및 개선 사항을 제안하고, 프로젝트 계획 및 실행","•AI 관련 학과 전공 (석사 이상)
+•AI 및 딥러닝 경력 5년 이상
+•최신 AI 분야의 연구 동향을 파악하고, 이를 직접 구현하실 수 있으신 분
+•RAG, Langchain, LangGraph와 같은 Agentic AI (AI Flow Engineering) 분야 연구 경험이 있으신 분
+•Multi-Modal AI 기능 구현 프로젝트 진행 경험이 있으신 분
+•데이터 가공 및 DB설계 경험이 있는 분
+•Pytorch, Tensorflow 등으로 대표되는 ML Framework 중 1개 이상에 대한 높은 숙련도가 있으신 분
+•새로운 것을 두려워하지 않고, 지속적인 성장을 원하시는 분","•Multimodal LLM 관련 전공자
+•Agentic AI 관련 전공자
+•GraphDB 관련 전공자
+•온톨로지 기반 데이터 모델링 경험 및 RDF, OWL, SPARQL, GraphDB, Neo4j 사용 경험이 있으신 분
+•Reasoning AI 관련 전공자
+•AI 관련 주요 학회 또는 저널에 게재된 논문에 주요 저자로 참여하신 경험이 있으신 분
+•AI 프로젝트를 주도적으로 리딩해본 경험이 있는 분
+•수학 혹은 수학교육 관련 학과 전공자
+•수학 과목 과외 및 강의 경험자
+•온/오프라인 학습 서비스의 사용자 경험(튜터 / 학생 무관)이 있으신 분",,,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=270562&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+18,langchain,아일리스,AI 개발자,"‘나는 좋은 일을 하고 있다, 나는 즐겁게 일 하고 있다.’ 이런 감정을 일상에서 느끼고 싶지 않으신가요? 우리는 ‘좋은 일을 즐겁게’(Good things with Pleasure! )라는 슬로건을 일상에서 실천하려고 노력하고 있어요. ‘좋다‘, ‘즐겁다‘는 감정입니다. 감정은 곧 에너지이자 방향이고요.우리가 하는 일을 좋다고, 즐겁다고 느끼는 감정의 크기만큼 세상을 더욱 변화 시킬 수 있을 것이라고 믿고 있답니다. 아일리스와 함께 성장하며, '좋은 일을 즐겁게' 함께 할 AI 개발자를 기다립니다!","금융, 유통, 물류, 제조 등 다양한 산업 환경에서 활용 가능한 B2B 특화형 AI Agent 시스템의 기획 및 개발
+클라우드 및 온프레미스 환경 모두에 적용 가능한 경량화된 AI 모델 및 에이전트 설계
+LLM 및 Generative AI 기술 기반의 도메인 맞춤형 에이전트 구현
+RAG, 멀티모달 모델, MCP 구조 등 최신 AI 아키텍처 적용 및 실험
+사내 AI 파이프라인 구축 및 성능 최적화 전반","3년~5년 AI, ML, DS 관련 시스템 개발 및 운영 경험
+LLM, Generative AI, AI Agent 관련 시스템 개발 및 운영 경험
+다양한 도메인(금융, 유통, 물류, 제조 등)에 맞는 맞춤형 AI 모델 개발 경험
+RAG, 멀티모달 모델, MCP(Model-Chaining Pipeline 등) 관련 설계 또는 구현 경험
+모델 경량화, 추론 최적화 등 효율적 운영을 위한 기술 적용 경험
+Python, PyTorch, TensorFlow, Hugging Face Transformers 등 ML 라이브러리 실무 역량
+프로젝트 요구사항 분석 및 문제 해결 능력
+소프트웨어공학, 컴퓨터공학 또는 관련 전공자
+다양한 직군 및 이해관계자와 원활한 커뮤니케이션 역량
+관련 포트폴리오 제출 필수 (담당 역할 및 기여도 명시)","LLM API(OpenAI, Claude, Gemini 등) 및 LangChain, LlamaIndex 등의 LLM 프레임워크 경험
+대규모 사용자 대상 B2B SaaS 또는 AI 서비스 구축/운영 경험
+Vector DB, 검색 인덱싱, 텍스트 임베딩 처리 등 RAG 구성요소에 대한 실무 경험
+MLOps 및 CI/CD 파이프라인 구축 경험
+영어 또는 일본어 가능자",,2026.01.01,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=290649&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun
+19,langchain,시나몬,AI Research Engineer (LLM Application),"안녕하세요. 저희는 AI 기술과 언리얼 엔진5를 기반으로, 시나리오만 입력하면 3D 영상 제작의 모든 과정(연기, 촬영, 편집, 녹음)을 AI가 알아서 처리하는 원스톱 플랫폼 'CineV'를 개발하고 있습니다.
+
+저희의 혁신적인 기술력은 네이버웹툰, 크래프톤 등 글로벌 콘텐츠 기업들의 투자를 통해 이미 그 가치를 증명했습니다.
+
+누구나 멋진 3D 콘텐츠 크리에이터가 될 수 있는 세상, 시나몬이 만들어갑니다.
+
+창의성과 기술이 만나는 가장 뜨거운 이곳에서, 함께 새로운 미래를 열어갈 동료를 기다립니다.
+
+지원자분들의 소중한 시간과 노력을 존중하며, 최종 인터뷰에 참석하시는 분들께 100만원의 면접 참여 감사금을 지급합니다.
+
+시나몬과 함께 새로운 시장을 열어갈 여러분의 많은 관심과 지원 부탁드립니다.","• 사용자 프롬프트와 대본을 분석해 배경, 캐릭터, 대사 등 영상 제작의 핵심 요소를 추출하는 기술 연구개발
+• 대본 내용을 바탕으로 씬 구성, 캐릭터 배치, 행동 계획 등을 설계하는 플래닝 기술 연구개발
+• 생성된 플래닝 데이터를 자체 3D 영상제작 플랫폼(CineV)에 통합 가능하도록 설계
+• 각종 연구결과물을 문서화하여 내/외부에 공유","• Python과 LLM 오케스트레이션 툴(Langchain 등)을 능숙하게 다루실 수 있는 분
+• LLM Application & Agent 개발 경험
+• 자연어 처리(NLP) 및 LLM(Large Language Model) 관련 프로젝트 경험
+• 뛰어난 문제 해결 능력을 갖추신 분
+• 원활한 커뮤니케이션 및 협업 능력을 보유하신 분","• LLM 모델을 실제 서비스에 적용해 본 경험
+• 관련 분야 석/박사 학위 또는 그에 준하는 실무 경력
+• 뛰어난 소프트웨어 엔지니어링 역량
+• 4인 이상의 팀 또는 프로젝트를 성공적으로 리드한 경험
+• LLM 코딩 에이전트를 개발에 활발하게 활용하시는 분
+• 주요 AI/ML 학회 또는 저널 논문 게재 실적",,2025.12.18,https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=303541&infoTypeCd=CWT&infoTypeGroup=tb_workinfogubun

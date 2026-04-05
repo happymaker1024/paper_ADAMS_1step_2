@@ -1,0 +1,6 @@
+﻿지표,Ko-SBERT,GPT-4o-mini
+Top-1 Accuracy,0.1702,0.4752
+Top-3 Accuracy,0.4752,0.6454
+Macro Precision,0.2725,0.3076
+Macro Recall,0.1370,0.3837
+Macro F1-score,0.1718,0.3364
